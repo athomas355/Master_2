@@ -1,0 +1,2 @@
+# define KEY_CHOOSING 777888
+# define KEY_NUMBER 555666
